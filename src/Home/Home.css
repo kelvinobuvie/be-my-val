@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Markazi+Text:wght@400..700&display=swap');
+.main{
+    background: #a32CC4;
+    width: 100vw;
+    height: 100vh;
+ 
+}
+
+.mainHeading{
+    /* margin-top: 20px; */
+    /* padding-top: 50px; */
+    font-family: DynaPuff;
+}
+
+.buttons{
+    margin-top: 24px;
+    font-family: DynaPuff;
+    font-size: 24px;
+    gap: 15px;
+}
